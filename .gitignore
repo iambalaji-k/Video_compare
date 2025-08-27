@@ -1,0 +1,79 @@
+# =====================================================
+# Python Video Comparison Tool - .gitignore
+# Based on: Python + Windows + VSCode
+# =====================================================
+
+# -------------------------
+# Python bytecode & caches
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Distribution / packaging
+# -------------------------
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# -------------------------
+# Virtual environments
+# -------------------------
+env/
+venv/
+.venv/
+ENV/
+
+# -------------------------
+# IDE & editor settings
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# OS-generated files (Windows / macOS)
+# -------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -------------------------
+# Release builds & binaries
+# -------------------------
+release_package/
+*.zip
+*.7z
+*.tar.gz
+*.exe
+
+# -------------------------
+# FFmpeg binaries
+# (keep out of repo, bundle only in releases)
+# -------------------------
+ffmpeg.exe
+ffprobe.exe
+
+# -------------------------
+# Logs & misc
+# -------------------------
+*.log
+*.bak
+*.tmp
