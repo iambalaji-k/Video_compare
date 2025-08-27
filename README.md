@@ -3,7 +3,7 @@
 A versatile desktop application for comparing two video files side-by-side with a synchronized slider, overlay modes, and frame-stepping capabilities.  
 Built with **Python**, **Tkinter**, and powered by **FFmpeg**.
 
-![App Screenshot](https://ibb.co/b55tYYzD)
+![App Screenshot](https://i.ibb.co/3mmKVVBQ/Screenshot-2025-08-28-011505.png)
 
 ---
 
